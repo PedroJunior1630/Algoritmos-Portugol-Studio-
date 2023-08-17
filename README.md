@@ -9,3 +9,4 @@
 6. Vetores e Matrizes
 7. Subrotinas
 ***
+*Software usado:* _Portugol Studio_
